@@ -1,0 +1,19 @@
+{
+  "name": "ok-metting-room",
+  "version": "1.0.0",
+  "description": "ok会议室预订系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyunlong0418/metting-room.git"
+  },
+  "author": "ok-fe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangyunlong0418/metting-room/issues"
+  },
+  "homepage": "https://github.com/wangyunlong0418/metting-room#readme"
+}
