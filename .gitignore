@@ -6,3 +6,4 @@ package-lock.json
 /buildTest
 .vscode
 /build
+.DS_Store
